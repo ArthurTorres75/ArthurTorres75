@@ -3,6 +3,7 @@
 I'm a web developer 
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArthurTorres75&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
 <!--
 **ArthurTorres75/ArthurTorres75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
