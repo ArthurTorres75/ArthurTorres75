@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Arthur Torres
 <hr />
 I'm a web developer 
-<br />
+<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArthurTorres75&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 <!--
