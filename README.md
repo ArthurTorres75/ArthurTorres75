@@ -1,9 +1,8 @@
-### Hi there 👋, I'm Arthur Torres
-<hr />
-I'm a web developer 
-<hr>
+## Hi there 👋, I'm Arthur Torres a software engineer
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArthurTorres75&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
+
+
 <!--
 **ArthurTorres75/ArthurTorres75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on web development
 - 💬 Ask me about Angular
 - 📫 How to reach me: arthurtorres75@gmail.com
