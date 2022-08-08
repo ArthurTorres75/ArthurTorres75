@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development
 - 💬 Ask me about Angular
 - 📫 How to reach me: arthurtorres75@gmail.com
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTorres75&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurTorres75&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
