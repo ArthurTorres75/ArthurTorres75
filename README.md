@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning React, NextJs, NodeJs
-- 💬 Ask me about Angular, Typescript
+- 🌱 I’m currently learning React, NextJs, NodeJs, Laravel
+- 💬 Ask me about Angular, Typescript, React, Tailwind
 - 📫 How to reach me: arthurtorres75@gmail.com
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTorres75&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
