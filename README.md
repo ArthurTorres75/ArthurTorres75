@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning React, NextJs, NodeJs, Laravel
+- 🌱 I’m currently learning Angular V17, React, NextJs, NodeJs, Laravel
 - 💬 Ask me about Angular, Typescript, React, Tailwind
 - 📫 How to reach me: arthurtorres75@gmail.com
 #
