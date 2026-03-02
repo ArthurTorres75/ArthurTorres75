@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on web development MERN
-- 🌱 I’m currently learning Angular V17, NextJS, NodeJS, NestJS
-- 💬 Ask me about Angular, Typescript, React, TailwindCSS
+- 🔭 I’m currently working on web development MERN, and Full stack development AWS + Terraform, Nextjs and INFRA Typescript  
+- 🌱 I’m currently learning AWS and terraform
+- 💬 Ask me about Angular, Typescript, React, TailwindCSS, Next JS, Nest JS, Node JS.
 - 📫 How to reach me: arthurtorres75@gmail.com, https://www.upwork.com/freelancers/~0110023d7209510ffb
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTorres75&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
