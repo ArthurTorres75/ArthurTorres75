@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development MERN, and Full stack development AWS + Terraform, Nextjs and INFRA Typescript  
 - 🌱 I’m currently learning AWS and terraform and Three.js
 - 💬 Ask me about Angular, Typescript, React, TailwindCSS, Next JS, Nest JS, Node JS. CSS and animations.
-- 📫 How to reach me: arthurtorres75@gmail.com, https://www.upwork.com/freelancers/~0110023d7209510ffb, https://github.com/ArthurTorres75/portfolio/
+- 📫 How to reach me: arthurtorres75@gmail.com, https://www.upwork.com/freelancers/~0110023d7209510ffb, https://arthurtorres75.github.io/portfolio/
 
