@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Arthur 👋
 ![](https://komarev.com/ghpvc/?username=ArthurTorres75&color=green) <br />
-### Full Stack Engineer | Scalable Web Applications | Clean Architecture
+### Full Stack Engineer | Scalable Web Applications | Clean Architecture | AI-Assited development
 
 I build modern, high-performance web applications focused on scalability, maintainability, and excellent user experience.
 
