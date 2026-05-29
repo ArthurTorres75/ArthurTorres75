@@ -81,14 +81,6 @@ Scalable backend using NestJS, JWT auth, modules, and clean code practices.
 
 ---
 
-## 📈 GitHub Stats
-
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 What I Focus On
 
 - Scalable Architecture
@@ -101,9 +93,9 @@ Scalable backend using NestJS, JWT auth, modules, and clean code practices.
 
 ## 📩 Contact
 
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 🌐 Portfolio: YOUR_WEBSITE
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/arthur-torres-9b41a2184/)
+- 🌐 Portfolio: [MY WEBSITE](https://arthurtorres75.github.io/portfolio/)
+- 📧 Email: arthurtorres75@gmail.com
 
 ---
 
