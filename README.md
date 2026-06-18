@@ -18,9 +18,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arthurtorres75@gmail.com, https://www.upwork.com/freelancers/~0110023d7209510ffb, https://arthurtorres75.github.io/portfolio/
 -->
 
+
+<div  align="right">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ArthurTorres75&color=green)](https://github.com/ArthurTorres75)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ArthurTorres75?label=Followers&style=round-square&color=green&labelColor=gray)](https://github.com/ArthurTorres75?tab=followers)
+&nbsp;
+[![GitHub User's stars](https://img.shields.io/github/stars/ArthurTorres75?affiliations=OWNER%2CCOLLABORATOR&style=round-square&label=Total+Stars&color=green&labelColor=gray)](https://github.com/ArthurTorres75)
+
+</div>
+
+
 # Hi, I'm Arthur 👋
-![](https://komarev.com/ghpvc/?username=ArthurTorres75&color=green) <br />
-### Full Stack Engineer | Scalable Web Applications | Clean Architecture | AI-Assited development
+
+
+
+
+### Full Stack Engineer | Scalable Web Applications | Clean Architecture | AI-Assited development  
+
+
+
+
+
 
 I build modern, high-performance web applications focused on scalability, maintainability, and excellent user experience.
 
